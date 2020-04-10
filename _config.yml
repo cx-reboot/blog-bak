@@ -4,14 +4,14 @@ SEOTitle: cx的博客
 header-img: img/post-bg-desk.jpg
 email: cxaqhq@gmail.com
 description: "Every failure is leading towards success."
-keyword: "kali linux"
+keyword: "kali linux,网络安全"
 url: "http://cx-reboot.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "网络安全!"
 sidebar-avatar: /img/cx.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
