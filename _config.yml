@@ -1,9 +1,9 @@
 # Site settings
 title: cx-reboot
-SEOTitle: cx的博客 
+SEOTitle: cx的博客 | CX Blog 
 header-img: img/bj.jpg
 email: cxaqhq@gmail.com
-description: "Every failure is leading towards success."
+description: "搞安全的兔子"
 keyword: "网络安全"
 url: "http://cx-reboot.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
