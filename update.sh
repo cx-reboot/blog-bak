@@ -1,2 +1,2 @@
-sudo git add . && sudo git commit -m "cx" && sudo git push origin master
+git add . && git commit -m "cx" && git push origin master
 
