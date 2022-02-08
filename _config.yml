@@ -4,14 +4,14 @@ SEOTitle: cx的博客 | CX Blog
 header-img: img/bj.jpg
 email: cxaqhq@gmail.com
 description: "搞安全的兔子"
-keyword: "网络安全"
+keyword: "内网渗透、IOT安全研究!"
 url: "http://cx-reboot.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/cx-reboot" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "网络安全!"
+sidebar-about-description: "内网渗透、IOT安全研究!"
 sidebar-avatar: /img/cx.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -95,9 +95,17 @@ chrome-tab-theme-color: "#000000"
 service-worker: true
 
 
+Friends
+friends: [
+   {
+       title: "Twitter",
+       href: "https://twitter.com/cxaqhq"
+   }
+]
+
 
 # Friends
-#friends: [
+# friends: [
 #    {
 #        title: "WY",
 #        href: "http://zhengwuyang.com"
@@ -111,4 +119,4 @@ service-worker: true
 #        title: "Apple Developer",
 #        href: "https://developer.apple.com/"
 #    }
-#]
+# ]
